@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Menu {
     public static void menu(Scanner rl, ArrayList<Ticket> listaTickets){
-
-        while(true){
+        boolean ciclo = false;
+        while(!ciclo){
             System.out.println("\n\n------------ Bienvenido al sistema de Respuesta de Tickets ------------\n");
             System.out.println("1. Crear Ticket. ");
             System.out.println("2. Ver todos los Tickets.");
@@ -59,11 +59,22 @@ public class Menu {
                 case 6:
                     rl.nextLine();
                     for(Ticket ticket : listaTickets){
-                        ticket.agregarComentarioSegunId(rl, ticket, listaTickets);
+                        ticket.agregarComentarioSegunId(rl, listaTickets);
                     }
+                    break;
+                case 7:
+                    cerrarTicket(rl, listaTickets);
+                    break;
+                case 8:
+                    estadisticas(listaTickets);
+                    break;
+                case 9:
+                    System.out.println("Hasta luego.");
+                    ciclo = true;
                     break;
             }
         }
+        rl.close();
     }
 
     public static void crearTicket(Scanner rl, ArrayList<Ticket> listaTickets){
@@ -306,8 +317,6 @@ public class Menu {
 
         int seleccion = rl.nextInt();
 
-
-
         while(seleccion < 1 || seleccion > listaTicket.size()){
             System.out.println("Por favor selecciona un número valido: ");
 
@@ -354,7 +363,7 @@ public class Menu {
                     rl.nextLine();
                 }
 
-                tick.setEstado(EstadoTicket.values()[nuevoEstado - 1]);
+                tick.cambiarEstado(EstadoTicket.values()[nuevoEstado - 1]);
 
                 System.out.println(tick);
                 cambiado = true;
@@ -366,4 +375,92 @@ public class Menu {
         }
 
     }
+
+    public static void cerrarTicket(Scanner rl, ArrayList<Ticket> listaTicket){
+        System.out.println("Quieres cerrar un ticket?\n1. si \n2. volver\nRespuesta: ");
+
+        while(!rl.hasNextInt()){
+            System.out.println("Por favor escoge un número valido.");
+            break;
+        }
+
+        int respuesta = rl.nextInt();
+
+        switch (respuesta){
+            case 1:
+                if(listaTicket.isEmpty()){
+                    System.out.println("La lista esta vacía.");
+                    return;
+                }
+
+                System.out.println("Por favor escoge el número de ID-Ticket a cerrar: ");
+
+                for(Ticket ti : listaTicket){
+                    System.out.println(ti);
+                }
+
+                System.out.println("Número a escoger del Ticket: ");
+                int numero = rl.nextInt();
+
+                boolean encontrado = false;
+
+                for(Ticket ti : listaTicket){
+                    if(numero == ti.getId()){
+                        if(ti.getEstado() == EstadoTicket.RESUELTO){
+                            System.out.println("\n✅ Se puede cerrar el ticket.");
+                            ti.setEstado(EstadoTicket.CERRADO);
+                            System.out.println(ti);
+                            encontrado = true;
+                        }else{
+                            System.out.println("\n❌ No se puede cerrar hasta que este resuelto el ticket.");
+                            return;
+                        }
+                    }
+                }
+
+                if(!encontrado){
+                    System.out.println("No se ha encontrado este ticket.");
+                    return;
+                }
+
+                break;
+            case 2:
+                System.out.println("Volviendo... ... ");
+                break;
+            default:
+                System.out.println("Escoge una opción valida: ");
+                rl.next();
+                break;
+        }
+    }
+
+    public static void estadisticas(ArrayList<Ticket> listaTicket){
+        if(listaTicket.isEmpty()){
+            System.out.println("No hay datos para filtrar estadísticas. ");
+            return;
+        }
+
+        int abiertos = 0;
+        int enProgreso = 0;
+        int enRevision = 0;
+        int resueltos = 0;
+        int cerrados = 0;
+
+        for(Ticket ti : listaTicket){
+            switch (ti.getEstado()){
+                case ABIERTO -> abiertos++;
+                case EN_PROGRESO -> enProgreso++;
+                case EN_REVISION -> enRevision++;
+                case RESUELTO -> resueltos++;
+                case CERRADO -> cerrados++;
+            }
+        }
+
+        System.out.println("- Abiertos: " + abiertos);
+        System.out.println("- En Progreso: " + enProgreso);
+        System.out.println("- En Revisión: " + enRevision);
+        System.out.println("- Resueltos: " + resueltos);
+        System.out.println("- Cerrados: "+ cerrados);
+    }
+
 }

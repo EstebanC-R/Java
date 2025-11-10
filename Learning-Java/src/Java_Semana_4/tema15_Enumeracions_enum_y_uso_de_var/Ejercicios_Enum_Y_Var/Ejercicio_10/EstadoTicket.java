@@ -9,24 +9,23 @@ public enum EstadoTicket {
 
     private String estado;
     private String iconoEstado;
-    private boolean estaGastado;
+    private boolean puedeAvanzar;
 
-    EstadoTicket(String estado, String iconoEstado, boolean estaGastado){
+    EstadoTicket(String estado, String iconoEstado, boolean puedeAvanzar){
         this.estado = estado;
         this.iconoEstado = iconoEstado;
-        this.estaGastado = estaGastado;
+        this.puedeAvanzar = puedeAvanzar;
     }
 
     public String getEstado(){
         return estado;
     }
 
-
     public String getIconoEstado() {
         return iconoEstado;
     }
 
-    public boolean isEstaGastado() {
-        return estaGastado;
+    public boolean puedeAvanzar() {
+        return puedeAvanzar;
     }
 }

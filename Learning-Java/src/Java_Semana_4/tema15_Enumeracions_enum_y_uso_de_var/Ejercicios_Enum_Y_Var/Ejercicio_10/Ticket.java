@@ -36,42 +36,29 @@ public class Ticket {
         System.out.println("\nSe ha agregado tu comentario exitosamente. ");
     }
 
-    public void agregarComentarioSegunId(Scanner rl, Ticket ticket, ArrayList<Ticket> listaTickets){
+    public void agregarComentarioSegunId(Scanner rl, ArrayList<Ticket> listaTickets){
         if(listaTickets.isEmpty()){
-            System.out.println("No hay datos en lista para poder cambiar.");
-        }else {
-            System.out.println("Ingresa el ID al que quieras agregar un comentario: ");
+            System.out.println("No hay tickets disponibles.");
+            return;
+        }
 
-            for(Ticket tick : listaTickets){
-                System.out.println(tick);
-            }
+        System.out.println("Tickets disponibles:");
+        for(Ticket tick : listaTickets){
+            System.out.println("ID: " + tick.getId() + " - " + tick);
+        }
 
-            System.out.println("Respuesta: ");
+        System.out.println("Ingresa el ID del ticket: ");
+        int id = rl.nextInt();
+        rl.nextLine();
 
-            while(!rl.hasNextInt()){
-                System.out.println("Por favor coloqué un número de ID valido: ");
-                rl.next();
-            }
-
-            int id = rl.nextInt();
-
-            while(id < 1 || id > listaTickets.size()){
-                System.out.println("Selecciona un número dentro del rango valido de IDs: ");
-
-                while(!rl.hasNextInt()){
-                    System.out.println("Por favor coloqué un número de ID valido: ");
-                    rl.next();
-                }
-
-                id = rl.nextInt();
-                rl.next();
-            }
-
-            if(ticket.getId() == id){
-                rl.nextLine();
-                ticket.agregarComentario(rl);
+        for(Ticket ti : listaTickets){
+            if(ti.getId() == id){
+                ti.agregarComentario(rl);
+                return;
             }
         }
+
+        System.out.println("❌ No se encontró un ticket con ese ID");
     }
 
     public String formatearComentarios() {
@@ -87,6 +74,21 @@ public class Ticket {
         }
         return sb.toString();
     }
+
+    public void cambiarEstado(EstadoTicket nuevoEstado){
+        if(this.estado == EstadoTicket.CERRADO){
+            System.out.println("❌ No se puede modificar un ticket cerrado");
+            return;
+        }
+
+        if (this.estado.puedeAvanzar()){
+            this.estado = nuevoEstado;
+            System.out.println("✅ Se ha actualizado el estado a " + nuevoEstado.getEstado());
+        }else {
+            System.out.println("❌ El estado ya esta en la etapa final " + estado.getEstado());
+        }
+    }
+
     @Override
     public String toString(){
         return String.format(

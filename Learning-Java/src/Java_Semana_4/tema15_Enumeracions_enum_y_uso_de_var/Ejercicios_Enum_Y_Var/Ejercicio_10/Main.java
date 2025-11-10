@@ -8,7 +8,5 @@ public class Main {
         var rl = new Scanner(System.in);
         ArrayList<Ticket> listaTickets = new ArrayList<>();
         Menu.menu(rl, listaTickets);
-        Menu.crearTicket(rl, listaTickets);
-        Menu.filtrarPorEstado(rl, listaTickets);
     }
 }

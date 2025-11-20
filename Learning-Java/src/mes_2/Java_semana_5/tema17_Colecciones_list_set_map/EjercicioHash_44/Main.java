@@ -1,8 +1,7 @@
-package mes_2.semana_5.tema17_Colecciones_list_set_map.EjercicioHash_44;
+package mes_2.Java_semana_5.tema17_Colecciones_list_set_map.EjercicioHash_44;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class Main {

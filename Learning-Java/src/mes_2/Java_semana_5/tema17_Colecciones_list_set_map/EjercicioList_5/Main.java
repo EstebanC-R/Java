@@ -1,4 +1,4 @@
-package mes_2.semana_5.tema17_Colecciones_list_set_map.EjercicioList_5;
+package mes_2.Java_semana_5.tema17_Colecciones_list_set_map.EjercicioList_5;
 
 import java.util.ArrayList;
 import java.util.List;

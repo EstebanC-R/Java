@@ -31,6 +31,5 @@ public class EjemploStringMetodosArreglo {
         }
         System.out.println();
         System.out.println("Extensión = " + archivoArr[larg - 1]);
-
     }
 }

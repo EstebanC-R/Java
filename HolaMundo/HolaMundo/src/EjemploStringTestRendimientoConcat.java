@@ -13,10 +13,14 @@ public class EjemploStringTestRendimientoConcat {
             sb.append(a).append(b).append("\n"); // 500 => 0ms, 1000 => 0ms, 10000 => 2ms, 100000 => 7ms
         }
 
+        System.gc(); // ! gc(); es basicamente Garbage Collector y es un gestionador de memoria, para evitar referencias inactivas o en des uso.
+
         long fin = System.currentTimeMillis();
 
         System.out.println(fin - inicio);
         System.out.println("c = " + c);
         System.out.println("sb.toString() = " + sb.toString());
+
+        System.exit(0);
     }
 }

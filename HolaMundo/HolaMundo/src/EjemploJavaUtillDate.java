@@ -7,8 +7,8 @@ public class EjemploJavaUtillDate {
 
         System.out.println("fecha = " + fecha);
 
-        SimpleDateFormat df = new SimpleDateFormat("EEEE dd 'de' MMMM 'del' yyyy"); // ? Si colocamos 2 MM muestra el número del mes,
-        // ? pero si es 4 MMMMM muestra el nombre del mes, por último con 3 MMM muestra el mes recortado.
+        SimpleDateFormat df = new SimpleDateFormat("EEEE dd 'de' MMMM 'del' yyyy"); // ? Las 4 EEEE son para poner el día de la semana,
+        // ? Si colocamos 2 MM muestra el número del mes, pero si es 4 MMMMM muestra el nombre del mes, por último con 3 MMM muestra el mes recortado.
         String fechaStr = df.format(fecha);
 
         long j = 0;

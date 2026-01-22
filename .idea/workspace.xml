@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d7d6b5f-a9b7-42e8-9506-c5582d67cc4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Arreglos/Arreglos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appfacturas/appfacturas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrices/matrices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paquetes/paquetes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/poo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo_clases_abstractas/poo_clases_abstractas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo_herencia/poo_herencia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo_interfaces/poo_interfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo_sobrecarga/poo_sobrecarga.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="38aM9d1WGesjuH5tTzsUTAo0YbC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USUARIO/Documents/JAVA"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d7d6b5f-a9b7-42e8-9506-c5582d67cc4f" name="Changes" comment="" />
+      <created>1769033077553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769033077553</updated>
+    </task>
+    <servers />
+  </component>
+</project>

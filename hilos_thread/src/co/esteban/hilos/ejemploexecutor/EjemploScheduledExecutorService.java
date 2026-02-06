@@ -1,6 +1,5 @@
 package co.esteban.hilos.ejemploexecutor;
 
-import java.sql.Time;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;

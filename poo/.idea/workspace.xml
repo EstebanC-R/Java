@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e218a556-bb51-465d-9102-7d49c5393d27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../poo_interfaces_repositorio_generics_con_exceptions/src/co/esteban/poointerfaces/repositorio/excepciones/AccesoDatoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo_interfaces_repositorio_generics_con_exceptions/src/co/esteban/poointerfaces/repositorio/excepciones/EscrituraAccesoDatoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo_interfaces_repositorio_generics_con_exceptions/src/co/esteban/poointerfaces/repositorio/excepciones/LecturaAccesoDatoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo_interfaces_repositorio_generics_con_exceptions/src/co/esteban/poointerfaces/repositorio/excepciones/RegistroDuplicadoAccesoDatoException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="37aC6ijN90FOgB5oBV587upJEi2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EjemploAutomovil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploAutomovilArreglo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploAutomovilEnum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploAutomovilRelacionesObjetos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploAutomovilStatic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploOrdenes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploPrograma.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USUARIO/Documents/JAVA/poo&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USUARIO/Documents/JAVA/poo/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.better_highlights.comments&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploOrdenes">
+    <configuration name="EjemploAutomovilArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploAutomovilArreglo" />
+      <module name="poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploAutomovilRelacionesObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploAutomovilRelacionesObjetos" />
+      <module name="poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploAutomovilStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploAutomovilStatic" />
+      <module name="poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploOrdenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosClases.EjemploOrdenes" />
+      <module name="poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosClases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PruebaDos.EjemploPrograma" />
+      <module name="poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PruebaDos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploPrograma" />
+        <item itemvalue="Application.EjemploOrdenes" />
+        <item itemvalue="Application.EjemploAutomovilStatic" />
+        <item itemvalue="Application.EjemploAutomovilRelacionesObjetos" />
+        <item itemvalue="Application.EjemploAutomovilArreglo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e218a556-bb51-465d-9102-7d49c5393d27" name="Changes" comment="" />
+      <created>1767131621991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767131621991</updated>
+    </task>
+    <servers />
+  </component>
+</project>

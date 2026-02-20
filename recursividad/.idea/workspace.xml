@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8dc32f6-8940-4247-b5d7-db0e4cc5775a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../colecciones/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/colecciones.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/Clases Collections y Map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/EjercicioList/Destino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/EjercicioList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/EjercicioList/Origen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/EjercicioList/Vuelo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/Readme_Collections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/list/EjemploArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/list/EjemploLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/list/EjemploListComparableComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/map/EjemploHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/map/EjemploTreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/modelo/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/set/EjemploHashSetBuscarDuplicado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/set/EjemploHashSetBuscarDuplicado2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/set/EjemploHashSetUnicidad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/set/EjemploTreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/set/EjemploTreeSetComparable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/co/esteban/ejemplos/set/EjemplosHashSetAgregar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colecciones/src/colecciones.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo_excepciones/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../poo_excepciones/.idea/material_theme_project_new.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Readme_Recursividad.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39JpzjmChDuE4WEjr9zrs6Vq9m2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EjemploRecursividad.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="EjemploRecursividad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.recursividad.ejemplo.EjemploRecursividad" />
+      <module name="recursividad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.recursividad.ejemplo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploRecursividad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8dc32f6-8940-4247-b5d7-db0e4cc5775a" name="Changes" comment="" />
+      <created>1770424291301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770424291301</updated>
+    </task>
+    <servers />
+  </component>
+</project>

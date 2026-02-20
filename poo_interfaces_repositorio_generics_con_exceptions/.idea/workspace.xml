@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fe3216b-cc11-4c32-8f1f-9eb65eeec7e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/co/esteban/poointerfaces/repositorio/excepciones/AccesoDatoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/esteban/poointerfaces/repositorio/excepciones/EscrituraAccesoDatoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/esteban/poointerfaces/repositorio/excepciones/LecturaAccesoDatoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/esteban/poointerfaces/repositorio/excepciones/RegistroDuplicadoAccesoDatoException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="38KBCBpyAmsOUqZQpibxvaw5cJC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjemploArticulosCaja.executor": "Run",
+    "Application.EjemploBolsaSupermercado.executor": "Run",
+    "Application.EjemploGenericos.executor": "Run",
+    "Application.EjemploRepositorio.executor": "Run",
+    "Application.EjemploRepositorioProducto.executor": "Run",
+    "Application.co.esteban.genericsclass.EjemploGenericos.executor": "Run",
+    "Application.main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USUARIO/Documents/JAVA/poo_interfaces_repositorio_generics_con_exceptions"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.esteban.ejercicio3.modelo" />
+      <recent name="co.esteban.poointerfaces" />
+      <recent name="co.esteban.poointerfaces.repositorio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploRepositorio">
+    <configuration name="EjemploArticulosCaja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.ejercicio2.EjemploArticulosCaja" />
+      <module name="poo_interfaces_repositorio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploBolsaSupermercado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.ejercicio.EjemploBolsaSupermercado" />
+      <module name="poo_interfaces_repositorio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.ejercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploRepositorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.poointerfaces.EjemploRepositorio" />
+      <module name="poo_interfaces_repositorio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.poointerfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploRepositorioProducto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.poointerfaces.EjemploRepositorioProducto" />
+      <module name="poo_interfaces_repositorio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.poointerfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.ejercicio3.main" />
+      <module name="poo_interfaces_repositorio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploRepositorio" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.EjemploArticulosCaja" />
+        <item itemvalue="Application.EjemploBolsaSupermercado" />
+        <item itemvalue="Application.EjemploRepositorioProducto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fe3216b-cc11-4c32-8f1f-9eb65eeec7e0" name="Changes" comment="" />
+      <created>1768538251882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768538251882</updated>
+    </task>
+    <servers />
+  </component>
+</project>

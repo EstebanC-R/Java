@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e73ba49a-8712-4cb9-a9b2-6ef3cfa8ce01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../recursividad/src/co/esteban/recursividad/ejemplo/EjemploRecursividad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anotaciones/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../anotaciones/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anotaciones/src/co/esteban/anotaciones/ejemplo/EjemploAnotacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../anotaciones/src/co/esteban/anotaciones/ejemplo/EjemploAnotacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anotaciones/src/co/esteban/anotaciones/ejemplo/JsonAtributo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../anotaciones/src/co/esteban/anotaciones/ejemplo/JsonAtributo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anotaciones/src/co/esteban/anotaciones/ejemplo/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../anotaciones/src/co/esteban/anotaciones/ejemplo/models/Producto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Readme_Streams.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38xUGx4hiMj4U8A0POTQIgz7XTq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EjemploStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamDistinct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamDistinctUsuario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamDistinctUsuarioSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamFilter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamFilterAnyMatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamFilterCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamFilterEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamFilterSingle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamFilterSingle2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamFlatMapFactura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamInfinitoGenerate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamListToStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamParallel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamReduce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploStreamReduceInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioBidimensional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioNumeroMayor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioProducto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioSuma.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USUARIO/Documents/JAVA/api_stream&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.esteban.api.stream.ejemplos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjercicioProducto">
+    <configuration name="EjemploStreamParallel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.api.stream.ejemplos.EjemploStreamParallel" />
+      <module name="api_stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.api.stream.ejemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioBidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.EjercicioBidimensional" />
+      <module name="api_stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioNumeroMayor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.EjercicioNumeroMayor" />
+      <module name="api_stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioProducto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.EjercicioProducto" />
+      <module name="api_stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioSuma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.EjercicioSuma" />
+      <module name="api_stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.api.stream.ejemplos.ejerciciosdelcurso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjercicioProducto" />
+        <item itemvalue="Application.EjercicioBidimensional" />
+        <item itemvalue="Application.EjercicioNumeroMayor" />
+        <item itemvalue="Application.EjercicioSuma" />
+        <item itemvalue="Application.EjemploStreamParallel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e73ba49a-8712-4cb9-a9b2-6ef3cfa8ce01" name="Changes" comment="" />
+      <created>1769740623990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769740623990</updated>
+    </task>
+    <servers />
+  </component>
+</project>

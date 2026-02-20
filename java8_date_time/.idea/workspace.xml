@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0094aa43-5625-4cb7-bda8-11f2bb3ffec1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../hilos_thread/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hilos_thread/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hilos_thread/src/co/esteban/hilos/ejemploexecutor/EjemploScheduledExecutorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hilos_thread/src/co/esteban/hilos/ejemploexecutor/EjemploScheduledExecutorService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="39DzAmuK25FFC29f4THyW4C8oQh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EjemploDuration.executor": "Run",
+    "Application.EjemploDuration2.executor": "Run",
+    "Application.EjemploLocalDate.executor": "Run",
+    "Application.EjemploLocalDateTime.executor": "Run",
+    "Application.EjemploLocalTime.executor": "Run",
+    "Application.EjemploPeriod.executor": "Run",
+    "Application.EjemploZonedDateTime.executor": "Run",
+    "Application.FechaNacimiento.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.better_highlights.comments"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.esteban.datetime.ejemplos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FechaNacimiento">
+    <configuration name="EjemploDuration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.datetime.ejemplos.EjemploDuration" />
+      <module name="java8_date_time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.datetime.ejemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploDuration2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.datetime.ejemplos.EjemploDuration2" />
+      <module name="java8_date_time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.datetime.ejemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploPeriod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.datetime.ejemplos.EjemploPeriod" />
+      <module name="java8_date_time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.datetime.ejemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploZonedDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.datetime.ejemplos.EjemploZonedDateTime" />
+      <module name="java8_date_time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.datetime.ejemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FechaNacimiento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.datetime.ejemplos.ejercicioscurso.FechaNacimiento" />
+      <module name="java8_date_time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.datetime.ejemplos.ejercicioscurso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FechaNacimiento" />
+        <item itemvalue="Application.EjemploPeriod" />
+        <item itemvalue="Application.EjemploDuration2" />
+        <item itemvalue="Application.EjemploDuration" />
+        <item itemvalue="Application.EjemploZonedDateTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0094aa43-5625-4cb7-bda8-11f2bb3ffec1" name="Changes" comment="" />
+      <created>1770245287673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770245287673</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52f9471f-279c-4169-86cd-06d4c5ee7b60" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/esteban/hilos/ejemploexecutor/EjemploScheduledExecutorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/esteban/hilos/ejemploexecutor/EjemploScheduledExecutorService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="38omWu7d4fGRe0BUYwL8a4nyJcB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculadoraParalela.executor": "Run",
+    "Application.DescargadorArchivos.executor": "Run",
+    "Application.EjemploAgendarTareaTimer.executor": "Run",
+    "Application.EjemploAgendarTareaTimerPeriodo (1).executor": "Run",
+    "Application.EjemploAgendarTareaTimerPeriodo (2).executor": "Run",
+    "Application.EjemploAgendarTareaTimerPeriodo (3).executor": "Run",
+    "Application.EjemploAgendarTareaTimerPeriodo.executor": "Run",
+    "Application.EjemploExecutor.executor": "Run",
+    "Application.EjemploExecutorFuture.executor": "Run",
+    "Application.EjemploExecutorFuture2.executor": "Run",
+    "Application.EjemploExecutorProductorConsumidor.executor": "Run",
+    "Application.EjemploExtenderThread.executor": "Run",
+    "Application.EjemploInterfaceRunnable.executor": "Run",
+    "Application.EjemploInterfaceRunnableJava8.executor": "Run",
+    "Application.EjemploProductorConsumidor.executor": "Run",
+    "Application.EjemploProductorConsumidorJava8.executor": "Run",
+    "Application.EjemploScheduledExecutorService.executor": "Run",
+    "Application.EjemploScheduledExecutorServicePeriodo.executor": "Run",
+    "Application.EjemploSincronizacionThread.executor": "Run",
+    "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio1_2.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio4.executor": "Run",
+    "Application.EjercicioExecutor1.executor": "Run",
+    "Application.EjercicioMonitor.executor": "Run",
+    "Application.EjercicioProductorConsumidor.executor": "Run",
+    "Application.EjercicioRaceCondition.executor": "Run",
+    "Application.EjercicioSynchronized.executor": "Run",
+    "Application.EjercicioTickets.executor": "Run",
+    "Application.ExecutorServiceCallableAndFuture.executor": "Run",
+    "Application.ExecutorServiceCallableAndMultiplesFuture.executor": "Run",
+    "Application.ExecutorServiceFixedThreadPool.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ProyectoFinal.executor": "Run",
+    "Application.ScheduleExecutorService.executor": "Run",
+    "Application.ScheduledExecutorServiceTareaCadaXTiempo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.esteban.hilos.ejemploexecutor" />
+      <recent name="co.esteban.hilos.ejemplotimer" />
+      <recent name="co.esteban.hilos.ejemplosync" />
+      <recent name="co.esteban.hilos.ejemplos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CalculadoraParalela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.CalculadoraParalela" />
+      <module name="hilos_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.EjercicioMonitor" />
+      <module name="hilos_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.sistematickets.EjercicioTickets" />
+      <module name="hilos_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.sistematickets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.hilos.ejerciciodecurso.Main" />
+      <module name="hilos_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.hilos.ejerciciodecurso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProyectoFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.finalproyect.ProyectoFinal" />
+      <module name="hilos_thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.esteban.hilos.ejerciciospropios.aprendizajeadquirido.ejerciciospracticos.finalproyect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ProyectoFinal" />
+        <item itemvalue="Application.EjercicioMonitor" />
+        <item itemvalue="Application.EjercicioTickets" />
+        <item itemvalue="Application.CalculadoraParalela" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f9471f-279c-4169-86cd-06d4c5ee7b60" name="Changes" comment="" />
+      <created>1769474333045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769474333045</updated>
+    </task>
+    <servers />
+  </component>
+</project>

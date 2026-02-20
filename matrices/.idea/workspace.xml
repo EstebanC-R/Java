@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f17e3fa-63bd-4344-9e5e-b1c65a391f14" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../hilos_thread/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hilos_thread/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hilos_thread/src/co/esteban/hilos/ejemploexecutor/EjemploScheduledExecutorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hilos_thread/src/co/esteban/hilos/ejemploexecutor/EjemploScheduledExecutorService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="37S4yckJc1aylhv0OQwyQOiV7QM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EjemploMatrices.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EjemploMatricesBuscar.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EjemploMatricesColumnasVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesIdentidad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesMarco.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesSimetrica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesStringFor.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EjemploMatricesStringFor2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesSumaFilasColumnas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesSumar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesTransponerMatriz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMatricesTranspuesta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioMatrizSilla.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioXMatriz.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USUARIO/Documents/JAVA/matrices&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USUARIO/Documents/JAVA/matrices/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.lczerniawski.bettercomments.settings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjercicioMatrizSilla">
+    <configuration name="EjemploMatricesIdentidad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesIdentidad" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploMatricesMarco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesMarco" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploMatricesSumaFilasColumnas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesSumaFilasColumnas" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioMatrizSilla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosMatrices.EjercicioMatrizSilla" />
+      <module name="matrices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosMatrices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioMatrizX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosMatrices.EjercicioMatrizX" />
+      <module name="matrices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosMatrices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjercicioMatrizSilla" />
+        <item itemvalue="Application.EjercicioMatrizX" />
+        <item itemvalue="Application.EjemploMatricesMarco" />
+        <item itemvalue="Application.EjemploMatricesIdentidad" />
+        <item itemvalue="Application.EjemploMatricesSumaFilasColumnas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f17e3fa-63bd-4344-9e5e-b1c65a391f14" name="Changes" comment="" />
+      <created>1766883393561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766883393561</updated>
+    </task>
+    <servers />
+  </component>
+</project>

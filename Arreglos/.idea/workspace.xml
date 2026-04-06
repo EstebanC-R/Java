@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b97c48-072c-47ea-9922-0d38fbaa1ce8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../poo_excepciones/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../poo_excepciones/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/java/com/esteban/gestion_tickets/dto/TicketDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/java/com/esteban/gestion_tickets/dto/TicketDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/java/com/esteban/gestion_tickets/repository/TicketRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/java/com/esteban/gestion_tickets/repository/TicketRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/java/com/esteban/gestion_tickets/service/TicketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/java/com/esteban/gestion_tickets/service/TicketService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../APIs/gestion-tickets/gestion-tickets/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

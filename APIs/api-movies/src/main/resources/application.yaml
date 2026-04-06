@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: api-movies               # Nombre de la aplicación (útil para logs y monitorización)
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/api-movies   # Dirección de la BD (host:puerto/nombreBD)
+    username: postgres                                    # Usuario de la BD
+    password: 1234                                        # Contraseña del usuario
+    driver-class-name: org.postgresql.Driver              # Driver JDBC para PostgreSQL
+
+  jpa:
+    hibernate:
+      ddl-auto: none                                      # Estrategia de esquema: none/update/create/create-drop
+    show-sql: true                                        # Muestra los queries en consola
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect  # Dialecto SQL específico de PostgreSQL
+
+  flyway:
+    enabled: true                                         # Activa migraciones automáticas con Flyway
+    locations: classpath:db/migration                     # Carpeta donde se guardan los scripts de migración

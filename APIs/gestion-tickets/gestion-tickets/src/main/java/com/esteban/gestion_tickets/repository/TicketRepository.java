@@ -10,7 +10,7 @@ import java.util.List;
 public interface TicketRepository extends JpaRepository<Ticket, Long> {
 
     // * encontrar por title
-    List<Ticket> findByTitle(String title);
+    List<Ticket> findByTitleContainsIgnoreCase(String title);
 
     // ? encontrar por status
     List<Ticket> findByStatus(Status status);
@@ -19,7 +19,7 @@ public interface TicketRepository extends JpaRepository<Ticket, Long> {
     List<Ticket> findByPriority(Priority priority);
 
     // % encontrar por email
-    List<Ticket> findByAssigneeEmail(String email);
+    List<Ticket> findByAssigneeEmailContainsIgnoreCase(String email);
 
 
 }

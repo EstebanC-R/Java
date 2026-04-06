@@ -1,0 +1,32 @@
+public class SentenciaFor {
+    static void main(String[] args) {
+
+        String[] nombres = {"Milton", "Yeison", "Yony", "Mateo", "Daniel"};
+
+        System.out.println("Lista nombres: ");
+        for(var i = 0; i < nombres.length; i++){
+            System.out.println("- " + nombres[i]);
+        }
+
+        System.out.println();
+
+        for(int i = 10; i >= 0; i--){
+            System.out.println("i = " + i);
+        }
+
+        System.out.println();
+
+        for(int i = 1, j =10;i < j; i++, j--){
+            System.out.println(i + " - " + j);
+        }
+
+        System.out.println();
+
+        for(int i = 0; i < 10; i++){
+            if(i % 2 == 0){
+                continue;
+            }
+            System.out.println("i = " + i);
+        }
+    }
+}

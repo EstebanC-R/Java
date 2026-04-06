@@ -4,8 +4,10 @@ import com.esteban.gestion_tickets.enums.Priority;
 import com.esteban.gestion_tickets.enums.Status;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.Setter;
 
 @Getter
+@Setter
 @AllArgsConstructor
 public class TicketDTO {
     private Long id;
